@@ -1,0 +1,11 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Nouveau CV 2022",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thierry Alexandre",
+  "license": "ISC"
+}
