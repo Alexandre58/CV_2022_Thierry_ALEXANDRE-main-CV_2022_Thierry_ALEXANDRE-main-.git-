@@ -7,4 +7,5 @@
 
 - HTML/SCSS/JS
 
-- Page Cv crée (ouvrir avec lien github)-->Settings-->Pages https://alexandre58.github.io/CV_2022_Thierry_ALEXANDRE/
+- Page Cv crée (ouvrir avec lien github)-->Settings-->Pages
+  https://alexandre58.github.io/CV_2022_Thierry_ALEXANDRE-main-CV_2022_Thierry_ALEXANDRE-main-.git-/
